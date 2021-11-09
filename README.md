@@ -7,7 +7,7 @@ Users should be able to:
 
 - See hover states for interactive elements
 ### Links
-solution link(git hub)
+solution link(git hub): https://github.com/misskemy7/Capstone-project-team-61/tree/master
 live link:
 
 ### Built with
